@@ -1,1 +1,1 @@
-# Handwritten-digital-recognition-using-ML
+# Handwritten-digit-recognition-using-ML
