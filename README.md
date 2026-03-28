@@ -1,8 +1,4 @@
-Here’s a **clean, professional README** you can directly use for your project (GitHub / submission / report). I’ve written it in a way that looks **strong in academics + hackathons** 👇
-
----
-
-# 🧠 Handwritten Digit Recognition using Machine Learning & Deep Learning
+#  Handwritten Digit Recognition using Machine Learning & Deep Learning
 
 ## 📌 Overview
 
@@ -56,12 +52,12 @@ fetch_openml('mnist_784')
 
 * Accuracy: **97.13%**
 
-#### ✅ Pros:
+####  Pros:
 
 * Simple and easy to implement
 * High accuracy without training phase
 
-#### ❌ Cons:
+####  Cons:
 
 * Slow during prediction (distance calculation for all points)
 * Memory intensive
@@ -81,12 +77,12 @@ fetch_openml('mnist_784')
 
 * Accuracy: **90.75%**
 
-#### ✅ Pros:
+####  Pros:
 
 * Effective in high-dimensional spaces
 * Good theoretical foundation
 
-#### ❌ Cons:
+####  Cons:
 
 * Computationally expensive
 * Not scalable to large datasets (hence reduced data used)
@@ -116,12 +112,12 @@ fetch_openml('mnist_784')
 
 * Accuracy: **98.30%**
 
-#### ✅ Pros:
+####  Pros:
 
 * Best performance for image data
 * Automatically extracts features
 
-#### ❌ Cons:
+####  Cons:
 
 * Requires more computation
 * Needs more data and tuning
@@ -152,7 +148,7 @@ These help visualize:
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 * CNN outperforms traditional ML models due to its ability to capture spatial features
 * KNN performs surprisingly well but is inefficient for large datasets
@@ -188,7 +184,7 @@ python main.py
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Use CNN with more layers for higher accuracy
 * Try data augmentation
